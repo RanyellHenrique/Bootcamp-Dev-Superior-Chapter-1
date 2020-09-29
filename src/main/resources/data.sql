@@ -1,0 +1,17 @@
+insert into tb_client (name, income, birth_date, children, cpf) values ('Franky Fewings', 47857.9,  TIMESTAMP WITH TIME ZONE '2019-11-10T13:38:41Z', 7, '54524504087');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Manolo Astupenas', 70559.11, TIMESTAMP WITH TIME ZONE '2019-12-31T01:49:56Z', 8, '70514493038');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Wadsworth Whyley', 73491.46, TIMESTAMP WITH TIME ZONE '2020-01-03T01:32:57Z', 8, '97848014002');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Lurette Thomton', 55186.4, TIMESTAMP WITH TIME ZONE '2020-04-18T04:42:37Z', 4, '64358375030');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Eugene M''Barron', 97372.29, TIMESTAMP WITH TIME ZONE '2020-07-19T03:08:26Z', 3, '66752332037');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Sacha Lockney', 13223.55, TIMESTAMP WITH TIME ZONE '2020-02-15T19:40:31Z', 3, '03449625047');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Cornell Happel', 29621.57, TIMESTAMP WITH TIME ZONE '2020-10-25T12:38:50Z', 7, '23695847000');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Lisette Fredson', 35103.36, TIMESTAMP WITH TIME ZONE '2020-09-06T13:44:50Z', 5, '36414352004');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Jobie Bowley', 13944.48, TIMESTAMP WITH TIME ZONE '2020-09-16T15:05:12Z', 2, '44628352046');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Nappy Mahaffey', 95322.06, TIMESTAMP WITH TIME ZONE '2020-03-17T20:41:14Z', 3, '83102093043');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Flint McTavy', 22022.94, TIMESTAMP WITH TIME ZONE '2020-04-30T10:05:52Z', 4, '29589467032');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Bathsheba Delatour', 44821.98, TIMESTAMP WITH TIME ZONE '2020-07-10T23:42:15Z', 5, '55723956094');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Maggee Kairns', 98600.52, TIMESTAMP WITH TIME ZONE '2020-04-15T19:03:40Z', 5, '80960403086');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Mathias Andriolli', 1769.65, TIMESTAMP WITH TIME ZONE '2020-11-23T17:57:38Z', 3, '77178418001');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Audi Coonan', 32177.69, TIMESTAMP WITH TIME ZONE '2020-10-29T16:26:34Z', 5, '76940844058');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Sile Soall', 70253.98, TIMESTAMP WITH TIME ZONE '2020-10-11T16:58:37Z', 1, '02069794016');
+insert into tb_client (name, income, birth_date, children, cpf) values ('Kelby Wardingly', 61114.36, TIMESTAMP WITH TIME ZONE '2019-12-26T14:54:49Z', 3, '78928462045');
